@@ -1,3 +1,7 @@
+# Movies App
+Find all your Favourite movies and Shows here. Enjoy!!
+##### Made with React Redux Toolkit :)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
